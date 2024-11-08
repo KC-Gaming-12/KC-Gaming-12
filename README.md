@@ -1,11 +1,17 @@
-- 👋 Hello, I’m @KC-Gaming-12
-- 👀 I’m interested in Cyber security
-- 🌱 I’m currently learning Python
-- 📫 Contact me: kcgaming@lifesteal.team
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a website at: https://www.lifesteal.team
+## Hello, Im `KC Gaming 12`
 
-<!---
-KC-Gaming-12/KC-Gaming-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a Youtube Channel [here](https://www.youtube.com/@KC_Gaming_12)
+# What I like
+- Programming
+- Cyber Security
+- Gaming
+- etc.
+# Fun Fact
+I Have a website calld the [KC Lifesteal SMP](https://www.lifesteal.team)
+# Contact
+- kcgaming@lifesteal.team
+- [KC Lifesteal SMP > Contact us](https://www.lifesteal.team/contact-us)
+- [KC Lifesteal SMP Discord](https://www.lifesteal.team/Discord)
+# Extras
+- Pronouns: He/Him
+- There may be some things I will say in the future!
