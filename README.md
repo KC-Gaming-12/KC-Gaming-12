@@ -1,5 +1,5 @@
 # Content
-[Hello, I'm KC Gaming 12](https://github.com/KC-Gaming-12#hello-im-kc-gaming-12) | [What I like](https://github.com/KC-Gaming-12#what-i-like) | [Fun Fact](https://github.com/KC-Gaming-12#fun-fact) | [Contact](https://github.com/KC-Gaming-12#contact) | [Extras](https://github.com/KC-Gaming-12#extras)
+[Hello, I'm KC Gaming 12](#hello-im-kc-gaming-12) | [What I like](#what-i-like) | [Fun Fact](#fun-fact) | [Contact](#contact) | [Extras](#extras)
 
 
 
